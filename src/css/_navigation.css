@@ -1,0 +1,8 @@
+.navigation a{
+    color: white;
+    margin-right: 10% ;
+    text-decoration: none;
+    border: solid 1px var(--second-color);
+    padding: .1rem 0.3rem;
+}
+    

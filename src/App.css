@@ -1,3 +1,16 @@
+@import "./css/_article.css";
+@import "./css/_body.css";
+@import "./css/_footer.css";
+@import "./css/_header.css";
+@import "./css/_navigation.css";
+@import "./css/_searchbar.css";
+
+/* VAR */
+:root {
+  --main-color:rgb(56, 56, 56);
+  --second-color:rgb(92, 197, 92);
+}
+
 .App {
   text-align: center;
 }

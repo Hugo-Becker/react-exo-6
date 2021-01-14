@@ -1,0 +1,11 @@
+.searchbar {
+    color: white;
+
+}
+.searchbar label, input, button {
+    margin-right: 10px;
+}
+
+.searchbar button{
+    background-color: turquoise;
+}
